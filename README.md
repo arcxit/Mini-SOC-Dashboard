@@ -1,1 +1,1 @@
-# SIEM-Log-Analyzer
+# Mini-SOC-Dashboard
